@@ -37,17 +37,14 @@ aim to utilize and expand my knowledge, skills, and experiences by creating soft
  - Feathers JS (JavaScript Framework)
  - Flutter
 
-### Reach me at:
-[![alt text][1.1]][1]
-[![alt text][1.2]][2]
+## Reach me at:
+![alt text][1.1] Facebook: [@mcperry11](https://www.facebook.com/mcperry11)\
+![alt text][1.2] Twitter: [@McPerry_](https://twitter.com/McPerry_)\
+:e-mail: Email: mack.perry.co@gmail.com
 
 <!-- Icon :inks -->
 [1.1]: http://i.imgur.com/fep1WsG.png
 [1.2]: http://i.imgur.com/wWzX9uB.png
-
-<!-- Social Links -->
-[1]: https://www.facebook.com/mcperry11
-[2]: https://twitter.com/McPerry_
 
 <!---
 McPerry11/McPerry11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

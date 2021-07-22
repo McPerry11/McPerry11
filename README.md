@@ -42,14 +42,19 @@ aim to utilize and expand my knowledge, skills, and experiences by creating soft
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=McPerry11&theme=monokai&show_icons=true)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McPerry11)
 
-## Reach me at:
+## Contacts
+#### Reach me at:
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/facebook.svg" height="30px" width="35px" title="Facebook">](https://www.facebook.com/mcperry11)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/twitter.svg" height="30px" width="35px" title="Twitter">](https://twitter.com/McPerry_)\
-:e-mail: Email: mack.perry.co@gmail.com
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/twitter.svg" height="30px" width="35px" title="Twitter">](https://twitter.com/McPerry_)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/at-solid.svg" height="30px" width="35px" title="Email">](mack.perry.co@gmail.com)
 
-<!-- Icon :inks -->
-[1.1]: http://i.imgur.com/fep1WsG.png
-[1.2]: http://i.imgur.com/wWzX9uB.png
+## Credits
+#### Icons used in this README file are all credited to:
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/fontawesome.svg" height="30px" width="35px" title="FontAwesome">](https://fontawesome.com/license)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/iconify.svg" height="30px" width="35px" title="Iconify">](https://iconify.design/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/worldvectorlogo.svg" height="30px" width="35px" title="World Vector Logo">](https://worldvectorlogo.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/iconfinder.svg" height="30px" width="35px" title="Icon Finder">](https://www.iconfinder.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vectorlogozone.svg" height="30px" width="35px" title="Vector Logo Zone">](https://www.vectorlogo.zone/)
 
 <!---
 McPerry11/McPerry11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

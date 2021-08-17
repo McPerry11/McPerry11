@@ -38,6 +38,8 @@ aim to utilize and expand my knowledge, skills, and experiences by creating soft
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/spring-icon.svg" height="30px" width="35px" title="Spring">](https://spring.io/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/feathersjs.svg" height="30px" width="35px" title="Feathers">](https://feathersjs.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/flutter.svg" height="30px" width="35px" title="Flutter">](https://flutter.dev/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/svelte-1.svg" height="30px" width="35px" title="Svelte">](https://svelte.dev/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/gatsbyjs-icon.svg" height="30px" width="35px" title="Gatsby">](https://www.gatsbyjs.com/)
 
 ## Statistics
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=McPerry11&theme=monokai&show_icons=true)\

@@ -2,7 +2,7 @@
 
 I am a Bachelor of Science in Computer Science student, and also the current team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE CCSS). I am an experienced team leader with three years of full-stack development experience in web applications and have already built multiple web application systems. I aim to utilize and expand my knowledge, skills, and experiences by creating software solutions for real-world problems.
 
-## Language & Tools
+## Languages & Tools
 ### What I already know...
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/python.svg" height="30px" width="30px" title="Python">](https://www.python.org/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/java.svg" height="30px" width="30px" title="Java">](https://www.java.com/en/)

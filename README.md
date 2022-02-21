@@ -1,14 +1,6 @@
 ## Mack Perry L. Co ([@McPerry11](https://github.com/McPerry11))
 
-I am a Bachelor of Science in Computer Science student, and also the current
-team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE CCSS). I honed my problem-solving skills and
-critical and logical thinking in my high school years at a private Chinese school, and there I also gained
-my passion for programming. I learned that programming can be a tool to solve real-world problems
-and that I can make changes and improve the quality of life around me. I soon
-participated in multiple hackathons, which are essentially competitions for promoting solution
-technologies in existing economic, social, and environmental problems. I now have three years of full-stack
-development experience in web applications and have already built multiple web application systems. I
-aim to utilize and expand my knowledge, skills, and experiences by creating software solutions for real-world problems.
+I am a Bachelor of Science in Computer Science student, and also the current team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE CCSS). I am an experienced team leader with three years of full-stack development experience in web applications and have already built multiple web application systems. I aim to utilize and expand my knowledge, skills, and experiences by creating software solutions for real-world problems.
 
 ## Language & Tools
 ### What I already know...

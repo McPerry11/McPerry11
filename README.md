@@ -17,7 +17,6 @@ I am a Bachelor of Science in Computer Science student, and also the current tea
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/bulma.svg" height="30px" width="30px" title="Bulma">](https://bulma.io/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/laravel.svg" height="30px" width="30px" title="Laravel">](https://laravel.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/jquery-icon.svg" height="30px" width="30px" title="JQuery">](https://jquery.com/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/golang-icon.svg" height="30px" width="30px" title="Go">](https://golang.org/)
 
 ### What I'm currently learning...
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)
@@ -32,6 +31,7 @@ I am a Bachelor of Science in Computer Science student, and also the current tea
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/flutter.svg" height="30px" width="30px" title="Flutter">](https://flutter.dev/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/svelte-1.svg" height="30px" width="30px" title="Svelte">](https://svelte.dev/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/gatsbyjs-icon.svg" height="30px" width="30px" title="Gatsby">](https://www.gatsbyjs.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/golang-icon.svg" height="30px" width="30px" title="Go">](https://golang.org/)
 
 ## Statistics
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=McPerry11&theme=monokai&show_icons=true)\

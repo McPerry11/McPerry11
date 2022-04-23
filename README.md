@@ -4,19 +4,19 @@ I am a graduating Bachelor of Science in Computer Science student, and also the 
 
 ## Languages & Tools
 ### What I already know...
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/python.svg" height="30px" width="30px" title="Python">](https://www.python.org/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/java.svg" height="30px" width="30px" title="Java">](https://www.java.com/en/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/mysql.svg" height="30px" width="30px" title="MySQL">](https://www.mysql.com/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/c-sharp.svg" height="30px" width="30px" title="C#">](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/r-lang.svg" height="30px" width="30px" title="R">](https://www.r-project.org/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/html.svg" height="30px" width="30px" title="HTML">](https://html.spec.whatwg.org/multipage/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/css.svg" height="30px" width="30px" title="CSS">](https://www.w3.org/Style/CSS/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/javascript.svg" height="30px" width="30px" title="JavaScript">](https://www.javascript.com/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/php.svg" height="30px" width="30px" title="PHP">](https://www.php.net/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/bootstrap-5-1.svg" height="30px" width="30px" title="Bootstrap">](https://getbootstrap.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/bulma.svg" height="30px" width="30px" title="Bulma">](https://bulma.io/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/laravel.svg" height="30px" width="30px" title="Laravel">](https://laravel.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/css.svg" height="30px" width="30px" title="CSS">](https://www.w3.org/Style/CSS/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/html.svg" height="30px" width="30px" title="HTML">](https://html.spec.whatwg.org/multipage/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/bootstrap-5-1.svg" height="30px" width="30px" title="Bootstrap">](https://getbootstrap.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/jquery-icon.svg" height="30px" width="30px" title="JQuery">](https://jquery.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/laravel.svg" height="30px" width="30px" title="Laravel">](https://laravel.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/java.svg" height="30px" width="30px" title="Java">](https://www.java.com/en/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/javascript.svg" height="30px" width="30px" title="JavaScript">](https://www.javascript.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/r-lang.svg" height="30px" width="30px" title="R">](https://www.r-project.org/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/mysql.svg" height="30px" width="30px" title="MySQL">](https://www.mysql.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/php.svg" height="30px" width="30px" title="PHP">](https://www.php.net/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/python.svg" height="30px" width="30px" title="Python">](https://www.python.org/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/c-sharp.svg" height="30px" width="30px" title="C#">](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ### What I'm currently learning...
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)

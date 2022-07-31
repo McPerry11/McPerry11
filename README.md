@@ -1,6 +1,6 @@
 ## Mack Perry L. Co ([@McPerry11](https://github.com/McPerry11))
 
-I am a graduating Bachelor of Science in Computer Science student, and also the current team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE CCSS). I am an experienced team leader with three years of full-stack development experience in web applications and have already built multiple web application systems. I aim to utilize and expand my knowledge, skills, and experiences by creating software solutions for real-world problems.
+I am a Bachelor of Science in Computer Science graduatein University of the East - Manila, and also the former team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE-CCSS) from September 2019 to July 2022. I am an experienced team leader with three years of full-stack development experience in web applications and have already built multiple web application systems. I aim to utilize and expand my knowledge, skills, and experiences by creating software solutions for real-world problems.
 
 ## Languages & Tools
 ### What I already know...

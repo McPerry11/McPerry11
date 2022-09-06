@@ -20,12 +20,12 @@ I am a Bachelor of Science in Computer Science graduate of University of the Eas
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/golang-icon.svg" height="30px" width="30px" title="Go">](https://golang.org/)
 
 ### What I'm currently learning...
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vaadin-icon.svg" height="30px" width="30px" title="Vaadin">](https://vaadin.com/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vue.svg" height="30px" width="30px" title="Vue">](https://vuejs.org/)
 
 ### What I'm interested in learning...
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vaadin-icon.svg" height="30px" width="30px" title="Vaadin">](https://vaadin.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React">](https://reactjs.org/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vue.svg" height="30px" width="30px" title="Vue">](https://vuejs.org/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/nodejs.svg" height="30px" width="30px" title="Node">](https://nodejs.org/en/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/spring-icon.svg" height="30px" width="30px" title="Spring">](https://spring.io/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/feathersjs.svg" height="30px" width="30px" title="Feathers">](https://feathersjs.com/)

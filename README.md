@@ -1,6 +1,6 @@
 ## Mack Perry L. Co ([@McPerry11](https://github.com/McPerry11))
 
-I am a Bachelor of Science in Computer Science graduate of University of the East - Manila, and also the former team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE-CCSS) from September 2019 to July 2022. I am an experienced team leader with three years of full-stack development experience in web applications and have already built multiple web application systems. I aim to utilize and expand my knowledge, skills, and experiences by creating software solutions for real-world problems.
+Package Specialist - SAP BASIS new hire in IBM Solutions Delivery, Inc. Graduated with a degree of B.S. in Computer Science from University of the East - Manila, and also the former team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE-CCSS) for 3 years. Aims to utilize and gain more knowledge, skills, and experiences by creating software solutions for real-world problems.
 
 ## Languages & Tools
 ### What I already know...

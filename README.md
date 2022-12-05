@@ -20,9 +20,10 @@ Package Specialist - SAP BASIS new hire in IBM Solutions Delivery, Inc. Graduate
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/golang-icon.svg" height="30px" width="30px" title="Go">](https://golang.org/)
 
 ### What I'm currently learning...
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vue.svg" height="30px" width="30px" title="Vue">](https://vuejs.org/)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/sap-icon.svg" height="30px" width="30px" title="SAP">](https://www.sap.com/sea/index.html)
 
 ### What I'm interested in learning...
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vue.svg" height="30px" width="30px" title="Vue">](https://vuejs.org/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vaadin-icon.svg" height="30px" width="30px" title="Vaadin">](https://vaadin.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React">](https://reactjs.org/)

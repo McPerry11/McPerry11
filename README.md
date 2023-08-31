@@ -1,6 +1,6 @@
 ## Mack Perry L. Co ([@McPerry11](https://github.com/McPerry11))
 
-Package Specialist - SAP BASIS new hire in IBM Solutions Delivery, Inc. Graduated with a degree of B.S. in Computer Science from University of the East - Manila, and also the former team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE-CCSS) for 3 years. Aims to utilize and gain more knowledge, skills, and experiences by creating software solutions for real-world problems.
+Package Specialist - SAP BASIS in IBM Solutions Delivery, Inc. Graduated with a degree of B.S. in Computer Science from University of the East - Manila, and also the former team leader of the Research & Development Unit at University of the East - College of Computer Studies and Systems (UE-CCSS) for 3 years. Aims to utilize and gain more knowledge, skills, and experiences by creating software solutions for real-world problems.
 
 ## Languages & Tools
 ### What I already know...
@@ -21,10 +21,10 @@ Package Specialist - SAP BASIS new hire in IBM Solutions Delivery, Inc. Graduate
 
 ### What I'm currently learning...
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/sap-icon.svg" height="30px" width="30px" title="SAP">](https://www.sap.com/sea/index.html)
+[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)
 
 ### What I'm interested in learning...
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vue.svg" height="30px" width="30px" title="Vue">](https://vuejs.org/)
-[<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React Native">](https://reactnative.dev/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/vaadin-icon.svg" height="30px" width="30px" title="Vaadin">](https://vaadin.com/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/react.svg" height="30px" width="30px" title="React">](https://reactjs.org/)
 [<img src="https://github.com/McPerry11/McPerry11/blob/main/svg/nodejs.svg" height="30px" width="30px" title="Node">](https://nodejs.org/en/)
